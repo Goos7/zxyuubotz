@@ -1,10 +1,10 @@
 // Thanks For Allah
 // AlyaaXzy
 // BOTCAHX
-// Zifabotz
+// Kujikibotz
 
 let fs = require('fs')
-global.owner = ['6281224804625', '6281224804625','6281215710461', '6281215710461', '6281224804625'] // Letakan nomor kamu disini
+global.owner = ['6287837756547', '6287837756547','6287837756547', '6287837756547', '6287837756547'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -47,7 +47,7 @@ global.author = 'NAIWIN'
 global.wait = '_*BENTAR NGAB LAGI PROSES*_'
 global.eror = '「❗」_*LAGI EROR NGAP🗿*_'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '© Zxyuu-Botz' //change the watermark 
+global.watermark = '© Kujiki-Botz' //change the watermark 
 global.image = 'https://telegra.ph/file/f409373f759b2d9f141b0.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/f409373f759b2d9f141b0.jpg'
 
